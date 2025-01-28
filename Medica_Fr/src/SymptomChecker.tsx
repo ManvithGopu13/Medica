@@ -12,7 +12,7 @@ import {
 import axios from 'axios';
 import { Symptom, Condition, UserResponses, ApiResponse } from './types';
 
-const API_URL = 'https://medi-try-1.onrender.com/api';
+const API_URL = 'https://medica-try.onrender.com/api';
 // const API_URL = 'http://172.20.10.3:3000/api';
 
 const SymptomChecker: FC = () => {
